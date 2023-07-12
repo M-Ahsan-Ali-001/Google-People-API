@@ -1,2 +1,2 @@
 # Google-People-API
-CRUD operations on Google Contact An Desktop App/CLI.
+CRUD operations on Google Contacts An Desktop App/CLI.
